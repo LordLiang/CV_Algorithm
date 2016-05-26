@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LK", "LK\LK.vcxproj", "{B40CC920-D4C0-459E-8E5B-C53DD43FAA6C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Farneback", "Farneback\Farneback.vcxproj", "{3A164992-F1BF-4FB0-ADD5-36350144BBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40CC920-D4C0-459E-8E5B-C53DD43FAA6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B40CC920-D4C0-459E-8E5B-C53DD43FAA6C}.Debug|Win32.Build.0 = Debug|Win32
+		{B40CC920-D4C0-459E-8E5B-C53DD43FAA6C}.Release|Win32.ActiveCfg = Release|Win32
+		{B40CC920-D4C0-459E-8E5B-C53DD43FAA6C}.Release|Win32.Build.0 = Release|Win32
+		{3A164992-F1BF-4FB0-ADD5-36350144BBF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A164992-F1BF-4FB0-ADD5-36350144BBF6}.Debug|Win32.Build.0 = Debug|Win32
+		{3A164992-F1BF-4FB0-ADD5-36350144BBF6}.Release|Win32.ActiveCfg = Release|Win32
+		{3A164992-F1BF-4FB0-ADD5-36350144BBF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
